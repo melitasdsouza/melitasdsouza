@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World! 👋 🌎
+
+I'm currently majoring in Computer Science at Stanford University.
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" width="150" alt="🤗" />
+
+- 📫 How to reach me: melitad@stanford.edu
 
 <!--
 **melitasdsouza/melitasdsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
