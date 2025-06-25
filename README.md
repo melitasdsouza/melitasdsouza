@@ -2,7 +2,7 @@
 
 I'm currently majoring in Computer Science at Stanford University.
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" width="150" alt="🤗" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" width="100" alt="🤗" />
 
 - 🤖 Interested AI + Robotics
 - 📫 How to reach me: melitad@stanford.edu
