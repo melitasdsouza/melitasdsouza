@@ -7,6 +7,8 @@ I'm currently majoring in Computer Science at Stanford University.
 - 🤖 Interested AI + Robotics
 - 📫 How to reach me: melitad@stanford.edu
 - 😎 Aspiring Social Media Content Creator
+##
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp)](https://skillicons.dev)
 
 <!--
 **melitasdsouza/melitasdsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
