@@ -1,4 +1,4 @@
-## Hello World! 👋 🌎
+## Melita D'Souza! 👋 🌎
 
 I'm currently majoring in Computer Science at Stanford University.
 
