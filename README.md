@@ -4,7 +4,6 @@ I'm currently majoring in Computer Science at Stanford University. <img src="htt
 
 - 🤖 Interested AI + Robotics
 - 📫 How to reach me: melitad@stanford.edu
-- 😎 Aspiring Social Media Content Creator
 ##
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp)](https://skillicons.dev)
 
