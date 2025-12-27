@@ -15,7 +15,7 @@
 ### 💻 Main Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,git,figma&theme=light" />
 </p>
 
 ### 😎 Fun Facts
