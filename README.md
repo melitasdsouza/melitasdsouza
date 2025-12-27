@@ -1,5 +1,5 @@
 <h1 align="center">
-  Melita D’Souza, reporting live(ish)
+  Melita D’Souza, reporting live
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" width="40" />
 </h1>
 
