@@ -20,18 +20,31 @@
 
 ### 🎬 Fun Facts
 
-- 🗞️ I’m a **Science & Technology writer for The Stanford Daily**
+- 🗞️ I’m a **Science & Technology** writer for **The Stanford Daily**
 - 📱 I’m a **content creator** across YouTube, Instagram, and TikTok
 - 🚀 A **college decisions reaction video** I made with my twin sister went viral — **500K+ views** across platforms
-- 🎭 I’m a **Producer for *Grease!* with Stanford’s Ram’s Head Theatrical Society**
+- 🎭 I’m a **Producer** for **Grease!** with **Stanford’s Ram’s Head Theatrical Society**
 
-<sub>Yes, I like building things that reach people.</sub>
+<sub>Yes, I do a lot of things that end up online.</sub>
 
 ### 🚧 What I’m Currently Building
 
-A stealth venture at the intersection of **social media, digital news, Gen Z culture, trends, and language**.
+<table>
+<tr>
+<td width="50%">
 
-*iykyk 👀*
+**Linkbranch**  
+A smart bio-link tool — similar to Linktree — with adaptive links that change based on context (device, referrer, time).
+
+</td>
+<td width="50%">
+
+**Stealth Venture**  
+A project at the intersection of social media, digital news, Gen Z culture, trends, and language. *iykyk 👀*
+
+</td>
+</tr>
+</table>
 
 ### 🤝 Connect with Me
 
