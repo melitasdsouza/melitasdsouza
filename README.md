@@ -18,11 +18,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,git,figma&theme=light" />
 </p>
 
-### 🎬 Fun Facts
+### 😎 Fun Facts
 
 - 🗞️ I’m a **Science & Technology** writer for **The Stanford Daily**
 - 📱 I’m a **content creator** across YouTube, Instagram, and TikTok
-- 🚀 A **college decisions reaction video** I made with my twin sister went viral — **500K+ views** across platforms
+- 🎓 A **college decisions reaction video** I made with my twin sister went viral — **500K+ views** across platforms
 - 🎭 I’m a **Producer** for **Grease!** with **Stanford’s Ram’s Head Theatrical Society**
 
 <sub>Yes, I do a lot of things that end up online.</sub>
