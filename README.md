@@ -12,13 +12,13 @@
 </h3>
 
 
-### 💻 Main Languages & Tools
+### Main Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,git,figma&theme=light" />
 </p>
 
-### 😎 Fun Facts
+### Fun Facts
 
 - 🗞️ I’m a **Science & Technology** writer for **The Stanford Daily**
 - 📱 I’m a **content creator** across YouTube, Instagram, and TikTok
@@ -27,7 +27,7 @@
 
 <sub>Yes, I do a lot of things that end up online.</sub>
 
-### 🚧 What I’m Currently Building
+### What I’m Currently Building
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ A project at the intersection of social media, digital news, Gen Z culture, tren
 </tr>
 </table>
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/melitasdsouza">
