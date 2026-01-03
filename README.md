@@ -27,24 +27,6 @@
 
 <sub>Yes, I do a lot of things that end up online.</sub>
 
-### What I’m Currently Building
-
-<table>
-<tr>
-<td width="50%">
-
-**Linkbranch**  
-A smart bio-link tool — similar to Linktree — with adaptive links that change based on context (device, referrer, time).
-
-</td>
-<td width="50%">
-
-**Stealth Venture**  
-A project at the intersection of social media, digital news, Gen Z culture, trends, and language. *iykyk 👀*
-
-</td>
-</tr>
-</table>
 
 ### Connect with Me
 
