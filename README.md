@@ -20,7 +20,7 @@
 
 ### Fun Facts
 
-- 🗞️ I’m a **Science & Technology** writer for **The Stanford Daily**
+- 🗞️ I’m a writer for **The Stanford Daily**
 - 📱 I’m a **content creator** across YouTube, Instagram, and TikTok
 - 🎓 A **college decisions reaction video** I made with my twin sister went viral — **500K+ views** across platforms
 - 🎭 I’m a **Producer** for **Grease!** with **Stanford’s Ram’s Head Theatrical Society**
